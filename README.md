@@ -92,6 +92,6 @@ On the Web: [www.hishaamabdul.com](www.hishaamadbdul.com)
 [issues-shield]: https://img.shields.io/github/issues/HishaamA/password-generator.svg?style=for-the-badge
 [issues-url]: https://github.com/HishaamA/password-generator/issues
 [license-shield]: https://img.shields.io/github/license/HishaamA/password-generator.svg?style=for-the-badge
-[license-url]: https://github.com/HishaamA/password-generator/blob/master/LICENSE.txt
+[license-url]: https://github.com/HishaamA/password-generator/blob/main/LICENSE
 [product-screenshot]: https://media.discordapp.net/attachments/993380129885667328/1009815573535920169/unknown.png?width=1783&height=868
 
