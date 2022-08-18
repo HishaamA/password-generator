@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Password Generator</title>
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="icon" href="images/logo.png" type="image/x-icon">
+</head>
+<body>
+
+<nav id="navbar" class="">
+    <div class="nav-wrapper">
+
+        <div class="logo">
+            <img id="" logo src="images/logo.png" width="60px">
+        </div>
+
+
+        <ul id="menu">
+            <li><a href="#contact">GitHub</a></li>
+        </ul>
+    </div>
+</nav>
+
+
+<div class="menuIcon">
+    <span class="icon icon-bars"></span>
+    <span class="icon icon-bars overlay"></span>
+</div>
+
+
+<div class="overlay-menu">
+    <ul id="menu">
+        <li><a href="#contact">GitHub</a></li>
+    </ul>
+</div>
+<div class="main">
+    <h3>Password Generator</h3>
+    <h1 id="title">Generate Secure Passwords</h1>
+    <div class="gen">
+        <div id="output">#########</div>
+        <button id="copy"><img src="images/copy.png" width="70px"></button>
+    </div>
+    <div class="input">
+        <label for="input-length"><b>Password length: </b></label>
+        <input id="input-length" type="number" min="1" max="64"><br>
+    </div>
+
+    <button id="btn">Generate</button>
+</div>
+<script src="index.js"></script>
+</body>
+</html>
