@@ -36,7 +36,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://password-generator.hishaamabdul.com)
 
-Just a little side project made in my freetime. You can generate random secure passwords at an instant
+Just a little side project I made in my freetime. You can generate random secure passwords at an instant
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
